@@ -2,7 +2,6 @@
 
 A single-page, responsive portfolio website built with semantic HTML5 and modern CSS (Flexbox + Grid). Dark navy + teal theme, mobile-first, no JavaScript required for core functionality.
 
-**Live:** *(add your GitHub Pages / Netlify URL once deployed)*
 
 ## File Structure
 
